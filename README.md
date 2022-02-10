@@ -11,3 +11,4 @@ To start containers:
 
 * Create the `grafana_data` and `influxdb_data` docker volumes.
 * Execute `docker-compose up`
+* Go to http://localhost:3000
