@@ -9,5 +9,5 @@ https://www.blazemeter.com/blog/how-to-create-a-lightweight-performance-monitori
 
 To start containers:
 
-* Create the `grafana_data`and ìnfluxdb_data` volumnes.
+* Create the `grafana_data` and ìnfluxdb_data` volumnes.
 * Execute `docker-compose up`
